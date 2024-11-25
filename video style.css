@@ -1,0 +1,10 @@
+*{margin: 0;
+box-sizing: border-box;}
+.header{color: burlywood; text-align: center; background-color: black;padding-top: 30px; padding-bottom: 30px;}
+video{
+    height: 315px;
+    width: 560px;
+}
+.video{padding: 50px;}
+.mainpage{margin-left: 50px
+    ;}

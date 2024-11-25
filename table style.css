@@ -1,0 +1,10 @@
+*{margin: 0;
+box-sizing: border-box;}
+.Header{color: rgb(238, 162, 63); text-align: center; background-color: black;padding-top: 30px; padding-bottom: 30px;}
+.table{padding: 50px;}
+table{border-collapse: collapse;}
+thead{border: 1px solid black;}
+tr{border: 1px solid black;}
+td{border: 1px solid black;}
+th{border: 1px solid black;}
+.mainpage{margin-left: 50px;}
